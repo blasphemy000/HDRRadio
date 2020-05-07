@@ -28,6 +28,6 @@ in my 'SimpleButton' library as the polling timer is up to the
 user and/or developer to decide upon for themselves.
 
 TimerOne: http://playground.arduino.cc/Code/Timer1
-          : https://github.com/PaulStoffregen/TimerOne
+        : https://github.com/PaulStoffregen/TimerOne
 
 ClickEncoder: https://github.com/0xPIT/encoder
